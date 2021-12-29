@@ -1,0 +1,35 @@
+user@DESKTOP-T4U0SDM MINGW64 ~
+$ touch desktop/Hicoders/week_3 eski.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~
+$ echo merhaba> desktop/Hicoders/week_3/eski.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~
+$ cd desktop/Hicoders/week_2
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_2
+$ mv ../week_3/eski.txt ../week_1/yeni.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_2
+$ touch ../week_1/dahayeni.txt echo dünya> ../week_1/dahayeni.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_2
+$ cat ../week_1/yeni.txt ../week_1/dahayeni.txt > ../week_1/enyeni.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_2
+$ cd ../week_1
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$ ls -l>liste.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$ attrib C:\liste.txt +s +h
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$ ls -al> gizliliste.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$ ls -al | grep liste$> listeler.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$

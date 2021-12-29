@@ -1,0 +1,6 @@
+total 2
+-r--r--r-- 1 user 197121 0 Jul 12 12:30 cours1.txt
+-rw-r--r-- 1 user 197121 0 Jul 22 04:03 dahayeni.txt
+-rw-r--r-- 1 user 197121 8 Jul 22 04:06 enyeni.txt
+-rw-r--r-- 1 user 197121 0 Jul 22 04:09 liste.txt
+-rw-r--r-- 1 user 197121 8 Jul 22 03:57 yeni.txt

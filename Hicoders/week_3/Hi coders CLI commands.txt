@@ -1,0 +1,58 @@
+user@DESKTOP-T4U0SDM MINGW64 ~
+$ pwd
+/c/Users/user
+
+user@DESKTOP-T4U0SDM MINGW64 ~
+$ cd desktop
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop
+$ mkdir Hicoders
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop
+$ cd Hicoders
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ mkdir week_3
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ cd ..
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop
+$ cd Hicoders
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ mkdir week_1
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ cd week_3
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_3
+$ touch cours3.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_3
+$ cd ..
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ cd week_3
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_3
+$ mv cours3.txt ../cours1.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_3
+$ cd ..
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ mv cours1.txt week_1
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ pwd
+/c/Users/user/desktop/Hicoders
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders
+$ cd week_1
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$ chmod u-w cours1.txt
+
+user@DESKTOP-T4U0SDM MINGW64 ~/desktop/Hicoders/week_1
+$
